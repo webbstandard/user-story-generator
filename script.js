@@ -13,7 +13,18 @@ const generateUserStory = () => {
         'an agent of the IRS, empowered by law to arrest people I find to have been naughty, I',
         'someone whom others refer to in certain subterranean contexts as "The Justice"'
     ];
-    const helpingVerbPhrases = [];
+    const helpingVerbPhrases = [
+        'super duper need to be able to',
+        'simply must have utter dominion of the means to',
+        'cannot at this time be inconvenienced to suffer the absence of the ability to',
+        'can\'t exactly be expected to just kind of wander around the submarine not having permission to',
+        'won\'t be taking this kind of treatment from you, you cad, you knave, you rogue, you blackguard -- you had better grant the means to',
+        'will soon -- very soon, now, pet -- be endowed with the godlike power to',
+        'experience surprise at the sudden, urgent, throbbing onset of the craving to',
+        'just want you to know that there\'s been a text from Daddy, and he can get kind of cranky before naptime (as you know), so it\'s really important right now that I have the ability to',
+        'have been corrupted and must not, under any circumstances, be granted leave by the Council to',
+        'cannot overemphasize the vital importance of denying Mother the accumulation of enough power to'
+    ];
     const intents = [];
     const prepositionalPhrases = [];
     const benefits = [];
