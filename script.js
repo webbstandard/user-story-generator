@@ -32,7 +32,7 @@ const generateUserStory = () => {
         'achieve mind-like-water through the orthodox deployment of the GTD methodology',
         'seize the means of production',
         'claim the Master Sword',
-        'marry for love',
+        'get married',
         'learn the chords to "Love Of My Life" by Queen',
         'take a screenshot of whatever THIS is',
         'fulfill the prophecy'
@@ -44,27 +44,27 @@ const generateUserStory = () => {
         'and',
         'so that it becomes possible to',
         'hard enough that the expectation is now to',
-        'so completely that even Picard would agree to',
-        'in a way that shuts them up long enough to',
+        'so completely that even Picard would',
+        'in a way that shuts them all up long enough to',
         'with such charm and confidence that Beth in Accounting kind of has to',
         'with such graceful, playful appeal that Antonio in Marketing will be utterly unable to'
     ];
     const benefits = [
-        'run around being GODDAM fabulous',
-        'make time travel possible',
-        'finish Infinite Jest',
+        'run around being GODDAM fabulous all the time',
+        'build a time machine',
+        'finally finish Infinite Jest',
         'show Mom how important DND is',
-        '',
-        '',
-        '',
-        '',
-        '',
-        ''
+        'establish Salt and Vinegar as the preferred chip',
+        'start folding T-shirts like in that one Japanese video',
+        'take this conversation offline',
+        'sell Fox on another season of Firefly',
+        'activate the Omega-13',
+        'go rogue'
     ];
 
     // the random index generator
     const randomIndex = array => {
-        return Math.floor(Math.random() * array.length - 1)
+        return Math.floor(Math.random() * (array.length - 1))
     };
 
     // the returned string concatenation
