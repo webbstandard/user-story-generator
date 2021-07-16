@@ -23,7 +23,7 @@ const generateUserStory = () => {
         'experience surprise at the sudden, urgent, throbbing onset of the craving to',
         'just want you to know that there\'s been a text from Daddy, and he can get kind of cranky before naptime (as you know), so it\'s really important right now that I have the ability to',
         'have been corrupted and must not, under any circumstances, be granted leave by the Council to',
-        'cannot overemphasize the vital importance of denying Mother the accumulation of enough power to'
+        'cannot overemphasize the vital importance of denying Mother the accumulation of enough time and personnel to'
     ];
     const intents = [];
     const prepositionalPhrases = [];
