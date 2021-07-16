@@ -2,16 +2,16 @@ const generateUserStory = () => {
     
     // arrays to contain the sentence components
     const personas = [
-        'a college grad, I',
+        'someone who went to college, I',
         'the proud owner of a Master\'s degree from an august institution of higher learning accredited by the state, I',
         'a single parent of three waiting in line at the DMV, I',
         'the constituent members of the Politburo Standing Committee (PSC), or, more officially, the Standing Committee of the Central Political Bureau of the Communist Party of China, we',
-        'a free citizen of a modern democracy, the exact current composition of which not necessarily being the Platonic ideal of its thesis, but also being the real and material result of blood spilt by those who came before me as they fought for a more perfect union, unencumbered as I am by oaths or allegiances to foreign princes, I',
-        'an iOS user, shrouded in my cardigan, I',
-        'an Android user, shrouded in my hoodie, I',
-        'the executive committee of BlackRock, Inc., we',
+        'a free citizen of a modern democracy, the exact current configuration of which not necessarily being the Platonic ideal of its own thesis, but also being the real, material result of blood spilled by those who came before as they fought for what they thought was going to be a more perfect union, or at least what they understood as something worthing taking a stand about, unencumbered as I am by oaths to foreign princes, I',
+        'an iOS user, swaddled in my cardigan woven from threads of cashmere, I',
+        'an Android user, shrouded in my Hoodie of Darkness, I',
+        'the executive committee of BlackRock, Inc., responsible to the shareholders for the profitable management of more than $9 trillion in assets, we',
         'an agent of the IRS, empowered by law to arrest people I find to have been naughty, I',
-        'Nobuo Uematsu, composer of the finest video game soundtracks known to exist, I'
+        'someone whom others refer to in certain subterranean contexts as "The Justice"'
     ];
     const helpingVerbPhrases = [];
     const intents = [];
