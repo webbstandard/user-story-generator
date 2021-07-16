@@ -10,6 +10,8 @@ const generateUserStory = () => {
         'an iOS user, shrouded in my cardigan, I',
         'an Android user, shrouded in my hoodie, I',
         'the executive committee of BlackRock, Inc., we',
+        'an agent of the IRS, empowered by law to arrest people I find to have been naughty, I',
+        'Nobuo Uematsu, composer of the finest video game soundtracks known to exist, I'
     ];
     const helpingVerbPhrases = [];
     const intents = [];
