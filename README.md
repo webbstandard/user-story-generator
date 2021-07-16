@@ -10,4 +10,4 @@ Run this simple JavaScript file on your terminal and your problems are **over**,
 
 That's half the battle right there, is it not?
 
-You _know_ it is.
+You know it is.
