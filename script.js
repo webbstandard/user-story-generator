@@ -23,22 +23,43 @@ const generateUserStory = () => {
         'experience surprise at the sudden, urgent, throbbing onset of the craving to',
         'just want you to know that there\'s been a text from Daddy, and he can get kind of cranky before naptime (as you know), so it\'s really important right now that I have the ability to',
         'have been corrupted and must not, for the love of God, be granted leave by the Council to',
-        'cannot overemphasize the vital importance of denying Mother the accumulation of enough time and personnel to'
+        'cannot overemphasize the vital importance of denying Janet the accumulation of enough personnel and resources to'
     ];
     const intents = [
         'seduce, or partially seduce, Jeff Bezos',
-        'seize the means of production',
-        'deploy the Sentinels',
+        'give birth to AI',
         'ascend the Iron Throne',
         'achieve mind-like-water through the orthodox deployment of the GTD methodology',
-        'push to origin',
+        'seize the means of production',
+        'claim the Master Sword',
+        'marry for love',
+        'learn the chords to "Love Of My Life" by Queen',
+        'take a screenshot of whatever THIS is',
+        'fulfill the prophecy'
     ];
     const prepositionalPhrases = [
         'in order to',
-        'enough to'
+        'enough to',
+        'or we\'re looking at a scenario in which we\'re likely to',
+        'and',
+        'so that it becomes possible to',
+        'hard enough that the expectation is now to',
+        'so completely that even Picard would agree to',
+        'in a way that shuts them up long enough to',
+        'with such charm and confidence that Beth in Accounting kind of has to',
+        'with such graceful, playful appeal that Antonio in Marketing will be utterly unable to'
     ];
     const benefits = [
-        'run around being so GODDAM fabulous'
+        'run around being GODDAM fabulous',
+        'make time travel possible',
+        'finish Infinite Jest',
+        'show Mom how important DND is',
+        '',
+        '',
+        '',
+        '',
+        '',
+        ''
     ];
 
     // the random index generator
