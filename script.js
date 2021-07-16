@@ -68,7 +68,7 @@ const generateUserStory = () => {
     };
 
     // the returned string concatenation
-    return `As ${personas[randomIndex]} ${helpingVerbPhrases[randomIndex]} ${intents[randomIndex]} ${prepositionalPhrases[randomIndex]} ${benefits[randomIndex]}.`
+    return `As ${personas[randomIndex(personas)]} ${helpingVerbPhrases[randomIndex(helpingVerbPhrases)]} ${intents[randomIndex(intents)]} ${prepositionalPhrases[randomIndex(prepositionalPhrases)]} ${benefits[randomIndex(benefits)]}.`
 
 };
 
