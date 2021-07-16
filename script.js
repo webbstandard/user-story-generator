@@ -22,12 +22,24 @@ const generateUserStory = () => {
         'will soon -- very soon, now, pet -- be endowed with the godlike power to',
         'experience surprise at the sudden, urgent, throbbing onset of the craving to',
         'just want you to know that there\'s been a text from Daddy, and he can get kind of cranky before naptime (as you know), so it\'s really important right now that I have the ability to',
-        'have been corrupted and must not, under any circumstances, be granted leave by the Council to',
+        'have been corrupted and must not, for the love of God, be granted leave by the Council to',
         'cannot overemphasize the vital importance of denying Mother the accumulation of enough time and personnel to'
     ];
-    const intents = [];
-    const prepositionalPhrases = [];
-    const benefits = [];
+    const intents = [
+        'seduce, or partially seduce, Jeff Bezos',
+        'seize the means of production',
+        'deploy the Sentinels',
+        'ascend the Iron Throne',
+        'achieve mind-like-water through the orthodox deployment of the GTD methodology',
+        'push to origin',
+    ];
+    const prepositionalPhrases = [
+        'in order to',
+        'enough to'
+    ];
+    const benefits = [
+        'run around being so GODDAM fabulous'
+    ];
 
     // the random index generator
     const randomIndex = array => {
