@@ -6,12 +6,12 @@ const generateUserStory = () => {
         'the proud owner of a Master\'s degree from an august institution of higher learning accredited by the state, I',
         'a single parent of three waiting in line at the DMV, I',
         'the constituent members of the Politburo Standing Committee (PSC), or, more officially, the Standing Committee of the Central Political Bureau of the Communist Party of China, we',
-        'a free citizen of a modern democracy, the exact current configuration of which not necessarily being the Platonic ideal of its own thesis, but also being the real, material result of blood spilled by those who came before as they fought for what they thought was going to be a more perfect union, or at least what they understood as something worthing taking a stand about, unencumbered as I am by oaths to foreign princes, I',
+        'a free citizen of a modern democracy, the exact current configuration of which not necessarily being the Platonic ideal of its own thesis, but also being the real, material result of blood spilled by those who came before as they fought for what they thought was going to be a more perfect union, or at least what they understood as something worth taking a stand about, unencumbered as I am by oaths to foreign princes, I',
         'an iOS user, swaddled in my cardigan woven from threads of cashmere, I',
         'an Android user, shrouded in my Hoodie of Darkness, I',
         'the executive committee of BlackRock, Inc., responsible to the shareholders for the profitable management of more than $9 trillion in assets, we',
         'an agent of the IRS, empowered by law to arrest people I find to have been naughty, I',
-        'someone whom others refer to in certain subterranean contexts as "The Justice"'
+        'someone whom others refer to in certain subterranean contexts as "The Justice," I'
     ];
     const helpingVerbPhrases = [
         'super duper need to be able to',
@@ -21,7 +21,7 @@ const generateUserStory = () => {
         'won\'t be taking this kind of treatment from you, you cad, you knave, you rogue, you blackguard -- you had better grant the means to',
         'will soon -- very soon, now, pet -- be endowed with the godlike power to',
         'experience surprise at the sudden, urgent, throbbing onset of the craving to',
-        'just want you to know that there\'s been a text from Daddy, and he can get kind of cranky before naptime (as you know), so it\'s really important right now that I have the ability to',
+        'just want you to know that there\'s been a text from Daddy, and he can get kind of cranky before naptime (as you know), so it\'s really really important right now that I have enough distance in the rear-view mirror to',
         'have been corrupted and must not, for the love of God, be granted leave by the Council to',
         'cannot overemphasize the vital importance of denying Janet the accumulation of enough personnel and resources to'
     ];
@@ -50,12 +50,12 @@ const generateUserStory = () => {
         'with such graceful, playful appeal that Antonio in Marketing will be utterly unable to'
     ];
     const benefits = [
-        'run around being GODDAM fabulous all the time',
+        'run around being so GODDAM fabulous all the time',
         'build a time machine',
         'finally finish Infinite Jest',
         'show Mom how important DND is',
         'establish Salt and Vinegar as the preferred chip',
-        'start folding T-shirts like in that one Japanese video',
+        'fold T-shirts like in that one Japanese video',
         'take this conversation offline',
         'sell Fox on another season of Firefly',
         'activate the Omega-13',
